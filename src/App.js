@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+
+import logo from './Zak.JPG';
 
 function App() {
   return (
