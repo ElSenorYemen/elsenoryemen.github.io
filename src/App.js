@@ -4,8 +4,13 @@ import logo from './Zak.JPG';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <header className="App-header" >
+        <div className="center-image">
+        <img src={logo} className="App-logo" alt="logo"
+        width="650"
+        height="400" 
+        />
+        </div>
         <p>
           Edit <code>src/App.js</code> and save to reload.
 
